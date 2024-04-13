@@ -6,7 +6,7 @@ export default function Home() {
 
   return (
     <>
-      <div className="p-1" style={{ minHeight: "calc(100dvh - 0rem)" }}>
+      <div className="p-1 bg-gradient-to-r from-[#E6EEFF] to-[#F8FAFF]" style={{ minHeight: "calc(100dvh - 0rem)" }}>
         <div className="p-1.5 lg:w-80 md:w-72 sm:w-64 w-full mx-auto h-full rounded-3xl bg-white shadow-[1px_2px_101px_45px_rgba(156,156,156,0.2)]">
 
           <div className="rounded-t-[20px] p-3 bg-[#EFF3FD]">
